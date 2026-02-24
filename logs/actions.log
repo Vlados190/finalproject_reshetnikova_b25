@@ -1,0 +1,1 @@
+2026-02-24T22:00:18 ERROR BUY user='testuser' currency='' amount= result=ERROR error=''int' object has no attribute 'user_id''

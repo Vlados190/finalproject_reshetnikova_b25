@@ -1,0 +1,23 @@
+[project]
+name = "finalproject-reshetnikova-b25"
+version = "0.1.0"
+description = "Консольное приложение валютного кошелька"
+authors = [
+    {name = "Решетникова",email = "vlada101102@yandex.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "prettytable (>=3.17.0,<4.0.0)",
+    "requests (>=2.32.5,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "ruff (>=0.15.2,<0.16.0)"
+]

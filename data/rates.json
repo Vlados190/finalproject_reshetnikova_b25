@@ -1,0 +1,20 @@
+{
+  "pairs": {
+    "BTC_USD": {
+      "rate": 64491.0,
+      "updated_at": "2026-02-24T20:39:50.983022+00:00",
+      "source": "CoinGecko"
+    },
+    "ETH_USD": {
+      "rate": 1857.94,
+      "updated_at": "2026-02-24T20:39:50.983022+00:00",
+      "source": "CoinGecko"
+    },
+    "SOL_USD": {
+      "rate": 78.75,
+      "updated_at": "2026-02-24T20:39:50.983022+00:00",
+      "source": "CoinGecko"
+    }
+  },
+  "last_refresh": "2026-02-24T20:39:51.556938Z"
+}
