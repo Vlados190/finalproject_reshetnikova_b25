@@ -61,3 +61,5 @@ python -m valutatrade_hub.cli.interface show-rates --top 5 --base USD
 Все данные пользователей и портфелей хранятся в data/.
 TTL курсов валют и кеширование реализовано через rates.json.
 Исключения (недостаточно средств, неизвестная валюта, ошибки API) корректно обрабатываются CLI
+
+https://asciinema.org/connect/25a2620d-41dd-4505-ab38-b396853f2ca4 
